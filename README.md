@@ -1,3 +1,4 @@
-# ENCH470
+# ENCH470-FA2020
 
-This is a test for ENCH470 lecture.
+Learn how to use GitHub for final projects in ENCH 470!
+Most of what you need to learn can be found here: https://guides.github.com/activities/hello-world/
